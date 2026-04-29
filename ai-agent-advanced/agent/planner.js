@@ -1,0 +1,1 @@
+export function plan(){return ['分析','执行','优化'];}
