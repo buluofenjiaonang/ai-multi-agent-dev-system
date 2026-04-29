@@ -1,1 +1,0 @@
-export function code(t){return 'AI生成:'+t;}
